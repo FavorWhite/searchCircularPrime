@@ -1,0 +1,6 @@
+D:\СircularPrime\searchCircularPrime\searchCircularPrime\bin\Debug\searchCircularPrime.exe.config
+D:\СircularPrime\searchCircularPrime\searchCircularPrime\bin\Debug\searchCircularPrime.exe
+D:\СircularPrime\searchCircularPrime\searchCircularPrime\bin\Debug\searchCircularPrime.pdb
+D:\СircularPrime\searchCircularPrime\searchCircularPrime\obj\Debug\searchCircularPrime.csprojResolveAssemblyReference.cache
+D:\СircularPrime\searchCircularPrime\searchCircularPrime\obj\Debug\searchCircularPrime.exe
+D:\СircularPrime\searchCircularPrime\searchCircularPrime\obj\Debug\searchCircularPrime.pdb
